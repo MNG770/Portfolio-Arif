@@ -540,7 +540,6 @@ body {
     margin-right: 15px; 
 }
 
-
 .contact-icons {
     margin-top: 20px;
     display: flex;
@@ -559,7 +558,6 @@ body {
     transform: scale(1.1);
 }
 
-/* Contact Form Styles */
 .contact-form {
     background: #333;
     border-radius: 10px;
@@ -601,6 +599,7 @@ body {
     background: darkred;
     transform: scale(1.05);
 }
+
 
 /* Media Untuk ukuran web ke semua ukuran device */
 /* Media Queries */
